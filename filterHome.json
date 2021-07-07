@@ -1,0 +1,32 @@
+{
+    "Filter" : [
+        {
+            "tagName": "like:85F073"
+        },
+        {
+            "tagName": "crazy:E74D4D"
+        },
+        {
+            "tagName": "love:F19F00"
+        },
+        {
+            "tagName": "angry:85C2FE"
+        },
+        {
+            "tagName": "confused:FE22A6"
+        },
+        {
+            "tagName": "laughing:85F073"
+        },
+        {
+            "tagName": "crying:F19F00"
+        },
+        {
+            "tagName": "gay:85C2FE"
+        },
+        {
+            "tagName": "happy:E74D4D"
+        },
+    
+    ]
+}
